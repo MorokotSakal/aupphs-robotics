@@ -12,6 +12,8 @@ Arduino
 
 ESP32
 
+Micro-bit
+
 RP-Pico
 
 Project23
