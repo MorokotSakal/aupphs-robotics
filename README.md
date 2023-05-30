@@ -7,17 +7,10 @@
 ## Overview
 This repo collects everything related to my Robotics class at AUPP High School. It will be updated irregularly. 
 
-## Contents
-Arduino
-
-ESP32
-
-Micro-bit
-
-RP-Pico
-
-Project23
-* Gold
-* Silver
-* Bronze
-* Honorable Mention
+## Table of Contents
+* [./Arduino](./Arduino/README.md):
+* ./ESP32: 
+* ./Micro-bit
+* ./RP-Pico
+* Projects Archived
+  * June 10, 2023, STEAM Expo 2023
