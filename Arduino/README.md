@@ -1,6 +1,6 @@
 # Arduino
 
-## List of awesome-resources
+## List of Awesome Resources
 * [TinkerCad Circuit](https://www.tinkercad.com/learn/circuits)
 * [Last Minute Engineers](https://lastminuteengineers.com/electronics/arduino-projects/)
 
