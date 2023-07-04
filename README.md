@@ -39,5 +39,6 @@ This repo collects everything related to my Robotics class at AUPP High School. 
 * Engineering Design Process (Critical thinking, problem-solving)
 * Project Management
 * Collaboration
+* Documentation (Web Design & Creation)
 * MakerSpace
 * Tools
