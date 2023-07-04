@@ -1,8 +1,8 @@
 # AUPP High School Robotics
 
 ## Links
-* GitHub
-* Web Page
+* [GitHub](https://github.com/MorokotSakal/aupphs-robotics)
+* [Web Page](https://morokotsakal.github.io/aupphs-robotics/)
 
 ## Overview
 This repo collects everything related to my Robotics class at AUPP High School. It will be updated irregularly. 
