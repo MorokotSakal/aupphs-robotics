@@ -15,7 +15,7 @@ This repo collects everything related to my Robotics class at AUPP High School. 
 * Projects Archived
   * June 10, 2023, STEAM Expo 2023
 
-## Other Awesome Resources
+## Additional Resources
 * Intro to Robotics
 * Coding and Programming
   * CodeHS
